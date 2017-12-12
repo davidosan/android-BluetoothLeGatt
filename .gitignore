@@ -1,0 +1,8 @@
+
+Application/build/outputs/apk/
+
+*.bin
+.gradle/
+.idea/
+Application/build/
+build/
